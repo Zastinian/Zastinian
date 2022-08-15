@@ -3,13 +3,6 @@
 </h1>
 
 <hr>
-<h2 align="center">🛠 Learned 🛠</h2>
-<br>
-<p align="center">
-
-</p>
-
-<hr>
 
 <h2 align="center">⌨ Public Repositories ⌨</h2>
 

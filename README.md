@@ -10,7 +10,10 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Zastinian/Discord-Bot-Template" title="Discord-Bot-Template"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Discord-Bot-Template&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="right" href="https://github.com/Zastinian/esmile-useful" title="esmile-useful"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=esmile-useful&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Zastinian/Esmile-Langs" title="Esmile-Langs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Esmile-Langs&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br>
+<div width="100%" align="center">
+    <a align="right" href="https://github.com/Zastinian/Esmile-Langs" title="Esmile-Langs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Esmile-Langs&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>

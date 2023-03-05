@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;I+am+Zastinian&color=F70707&center=true&size=30" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;I+am+Zastinian&color=FFFFFF&center=true&size=30&font=Rubik+80s+Fade" />
 </h1>
 
 <hr />
@@ -15,7 +15,7 @@
 </div>
 <hr />
 
-<h2 align="center">⌨ Public Repositories ⌨</h2>
+<h2 align="center" style="font-family: Rubik 80s Fade">⌨ Public Repositories ⌨</h2>
 
 <br />
 <div width="100%" align="center">
@@ -51,7 +51,7 @@
   /></a>
 </div>
 
-<br /><br />
+<br />
 
 <h4 align="center">
   <a href="https://github.com/Zastinian?tab=repositories" title="Show Repositories">🔎 More 🔍</a>

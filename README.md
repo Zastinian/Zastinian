@@ -10,7 +10,7 @@
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastinian&layout=compact&theme=react&langs_count=8&border_color=61dafb&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastinian&layout=compact&theme=react&langs_count=9&border_color=61dafb&border_radius=10"
   />
 </div>
 <hr />

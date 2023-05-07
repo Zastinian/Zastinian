@@ -6,7 +6,7 @@
 <div width="100%" style="margin: 20px" align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=zastinian&show_icons=true&theme=react&count_private=true&border_color=61dafb&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=zastinian&show_icons=true&theme=react&count_private=true&border_color=61dafb&border_radius=10&include_all_commits=true"
   />
   <img
     height="180"

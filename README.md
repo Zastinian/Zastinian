@@ -6,11 +6,11 @@
 <div width="100%" style="margin: 20px" align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=zastinian&show_icons=true&theme=codeSTACKr&count_private=true&border_color=61dafb&border_radius=10&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Zastinian&show_icons=true&theme=codeSTACKr&count_private=true&border_color=61dafb&border_radius=10&include_all_commits=true"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastinian&layout=compact&theme=codeSTACKr&langs_count=9&border_color=61dafb&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zastinian&layout=compact&theme=codeSTACKr&langs_count=9&border_color=61dafb&border_radius=10"
   />
 </div>
 <hr />

@@ -12,6 +12,10 @@
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zastinian&layout=compact&theme=codeSTACKr&langs_count=9&border_color=61dafb&border_radius=10"
   />
+  <img
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Zastinian&theme=codeSTACKr&count-private=true&v=2&border=61dafb&border_radius=10"
+  />
 </div>
 <hr />
 

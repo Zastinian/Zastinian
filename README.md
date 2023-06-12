@@ -19,6 +19,11 @@
 
 <br />
 <div width="100%" align="center">
+  <a align="right" href="https://github.com/Zastinian/HedystiaMD" title="HedystiaMD"
+    ><img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=HedystiaMD&theme=codeSTACKr&border_color=61dafb&border_radius=10"
+  /></a>
   <a align="left" href="https://github.com/Zastinian/Discord-Bot-Template" title="Discord-Bot-Template"
     ><img
       height="115"
@@ -43,11 +48,6 @@
     ><img
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Hedystia-Builders&theme=codeSTACKr&border_color=61dafb&border_radius=10"
-  /></a>
-  <a align="right" href="https://github.com/Zastinian/hedystia.db" title="hedystia.db"
-    ><img
-      height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=hedystia.db&theme=codeSTACKr&border_color=61dafb&border_radius=10"
   /></a>
 </div>
 

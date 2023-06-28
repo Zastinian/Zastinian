@@ -10,7 +10,7 @@
 <div width="100%" style="margin: 20px" align="center">
   <img
     height="180"
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/Zastinian?cardType=github&theme=dracula&preferLogin=false&Border=61dafb&border_radius=10"
+    src="https://stats.hedystia.com/api?username=Zastinian&theme=dracula"
   />
   <br />
   <img

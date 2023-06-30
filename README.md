@@ -3,7 +3,6 @@
 </h1>
 
 <hr />
-
 <h2 align="center" style="font-family: Rubik 80s Fade">🖇️ Github Stats 🖇️</h2>
 
 <br />

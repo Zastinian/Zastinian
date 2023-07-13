@@ -14,7 +14,7 @@
   <br />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zastinian&layout=compact&theme=dracula&langs_count=9&border_color=61dafb&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zastinian&layout=compact&theme=dracula&langs_count=10&border_color=61dafb&border_radius=10"
   />
   <img
     height="180"

@@ -27,30 +27,20 @@
 
 <br />
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Zastinian/Discord-Bot-Template" title="Discord-Bot-Template"
-    ><img
-      height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Discord-Bot-Template&theme=dracula&border_color=61dafb&border_radius=10"
-  /></a>
-  <a align="left" href="https://github.com/Zastinian/Guilded-Bot" title="Guilded-Bot"
-    ><img
-      height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Guilded-Bot&theme=dracula&border_color=61dafb&border_radius=10"
-  /></a>
   <a align="right" href="https://github.com/Zastinian/Astro-Login" title="Astro-Login"
     ><img
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Astro-Login&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
-  <a align="right" href="https://github.com/Zastinian/hedystia-useful" title="hedystia-useful"
+  <a align="right" href="https://github.com/Zastinian/HedystiaBilling" title="hedystia-useful"
     ><img
       height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=hedystia-useful&theme=dracula&border_color=61dafb&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=HedystiaBilling&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
-  <a align="left" href="https://github.com/Zastinian/Hedystia-Builders" title="Hedystia-Builders"
+  <a align="right" href="https://github.com/Zastinian/HedystiaMD" title="hedystia-useful"
     ><img
       height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=Hedystia-Builders&theme=dracula&border_color=61dafb&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Zastinian&repo=HedystiaMD&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
 </div>
 

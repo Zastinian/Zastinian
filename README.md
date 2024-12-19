@@ -18,7 +18,7 @@
   />
   <img
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Zastinian&theme=dracula&count-private=true&v=2&border=61dafb&border_radius=10"
+    src="https://streak-stats.demolab.com/?user=Zastinian&theme=dracula&count-private=true&v=2&border=61dafb&border_radius=10"
   />
 </div>
 <hr />
